@@ -1,6 +1,6 @@
 - I’m k41ju.
-- I don't code.
-- I kind of want to learn python.
+- I don't code, yet.
+- I want to learn python.
 - I need to do projects.
 - See me on Hack the Box. 🖥️
 
